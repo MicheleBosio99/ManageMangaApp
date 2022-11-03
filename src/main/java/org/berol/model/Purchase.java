@@ -3,6 +3,7 @@ package org.berol.model;
 import java.util.Date;
 
 public class Purchase {
+
     private String title;
     private int numVolumes;
     private int totPrice;

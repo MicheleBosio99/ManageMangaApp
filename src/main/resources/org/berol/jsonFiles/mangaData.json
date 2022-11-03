@@ -1,18 +1,39 @@
 [
-    {
-      "mangaTitle" : "",
-      "publisher" : "",
-      "NumVolumesTotal" : 0,
-      "priceTotal" : 0,
-      "priceAvg" : 0,
-      "priceIfNew" : "",
-      "priceToComplete" : "",
-      "yourVote" : "",
-      "firstUpdate" : "",
-      "lastUpdate" : "",
-      "isComplete" : true,
-      "envelope" : "",
-      "websitesUsed" : [],
-      "" : ""
-    }
+  {
+    "title": "Code Geass",
+    "publisher": "Planet Manga",
+    "numVolumesTotal": 8,
+    "numVolumesOwned": 8,
+    "priceTotal": 59.36,
+    "priceAvg": 7.42,
+    "priceNewPerVolume": 4.3,
+    "priceToComplete": 0.0,
+    "vote": 7.2,
+    "firstUpdate": "02/11/2022",
+    "lastUpdate": "02/11/2022",
+    "isComplete": true,
+    "envelopeType": "Manga1",
+    "websitesUsed": [
+      "Vinted",
+      "Facebook"
+    ]
+  },
+  {
+    "title": "Jojo Bizarre Adventures: Stardust Crusaders",
+    "publisher": "Star Comics",
+    "numVolumesTotal": 0,
+    "numVolumesOwned": 10,
+    "priceTotal": 16.0,
+    "priceAvg": 1.6,
+    "priceNewPerVolume": 6.0,
+    "priceToComplete": 0.0,
+    "vote": 9.7,
+    "firstUpdate": "02/11/2022",
+    "lastUpdate": "02/11/2022",
+    "isComplete": true,
+    "envelopeType": "MangaTP3",
+    "websitesUsed": [
+      "Facebook"
+    ]
+  }
 ]
